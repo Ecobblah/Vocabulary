@@ -1,5 +1,5 @@
 
-# Vovabulary.
+# Vovabulary
 
 ## I made it with...
 * HTML
@@ -9,7 +9,7 @@
 
 Where you can look up words without saving or copying the definitions. Words can always be downloaded on PDF, also has a word of a day.
 
-## what i didn't do
+## what i didn't do...
 * Styling
 * Give a warning when a word is undefined
 * let the user know when there more than 1 definition
