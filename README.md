@@ -7,7 +7,7 @@
 * Ajax
 * API
 
-Where you can look up words without saving or copying the definitions. Words can always be downloaded on PDF. Also has a word of a day.
+Where you can look up words without saving or copying the definitions. Words can always be downloaded on PDF, also has a word of a day.
 
 ## what i didn't do
 * Styling
