@@ -1,5 +1,5 @@
 
-# Vovabulary
+# Vocabulary
 
 ## I made it with...
 * HTML
